@@ -1,0 +1,45 @@
+
+/*
+.columns{
+    padding-left: 700px;
+    padding-bottom: 30px;
+}
+
+.columns {
+   display: flex;
+   justify-content: center;
+}
+
+.card{
+    width: 250px;
+}
+
+*/
+
+.container{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    gap: 30px;
+  
+
+}
+
+.card1{
+    border: solid 2px rgb(0, 255, 251);
+    border-radius: 40px;
+}
+.titulo{
+    text-align: center;
+}
+.containers{
+    padding-top: 70px;
+   
+}
+.descricao{
+    text-align: center;
+}
+.card1 img{
+    border-radius: 30px;
+}

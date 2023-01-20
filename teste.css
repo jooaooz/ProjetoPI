@@ -1,0 +1,40 @@
+nav {
+    
+    background-color: #2f3e53;
+
+}
+
+.nav-wrapper a.button {
+
+    margin: 0% 0% 0% 3%;
+    display:none;
+
+}
+
+.barra-lateral {
+
+    background-color: #697586;
+    color:white;
+    width:30%;
+    font-size:1.30em;
+    
+
+}
+
+ li {
+    
+    list-style-type: none;
+    padding: 2% 5%;
+
+}
+.container.corpo {
+
+    margin-left:40%;
+    margin-top:-28%;
+    padding-top:2%;
+    width:60%;
+
+}
+footer{
+    margin-top: 26%;
+}
