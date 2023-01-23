@@ -1,22 +1,52 @@
-nav {
+.container{
+    display: flex;
+   justify-content: space-around;
     
-    background-color: #2f3e53;
 
 }
 
-.nav-wrapper a.button {
+.menu{
+   
+   
+}
 
-    margin: 0% 0% 0% 3%;
-    display:none;
+.galeria{
+    background-color: aqua;
 
+   
+}
+
+.card1{
+    border: solid 2px rgb(0, 255, 251);
+    border-radius: 40px;
+}
+.titulo{
+    text-align: center;
+}
+.containers{
+    padding-top: 70px;
+   
+}
+.descricao{
+    text-align: center;
+}
+.card1 img{
+    border-radius: 30px;
+}
+
+body{
+    padding: 15px;
 }
 
 .barra-lateral {
 
-    background-color: #697586;
+    background-color: #0c73f9;
     color:white;
-    width:30%;
+    width: 17%;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
     font-size:1.30em;
+   
     
 
 }
@@ -35,6 +65,8 @@ nav {
     width:60%;
 
 }
-footer{
-    margin-top: 26%;
+
+.titulo{
+    margin: 20px;
 }
+

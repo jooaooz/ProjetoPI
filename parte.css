@@ -1,20 +1,4 @@
 
-/*
-.columns{
-    padding-left: 700px;
-    padding-bottom: 30px;
-}
-
-.columns {
-   display: flex;
-   justify-content: center;
-}
-
-.card{
-    width: 250px;
-}
-
-*/
 
 .container{
     display: flex;
@@ -42,4 +26,40 @@
 }
 .card1 img{
     border-radius: 30px;
+}
+
+body{
+    padding: 15px;
+}
+
+.barra-lateral {
+
+    background-color: #0c73f9;
+    color:white;
+    width: 17%;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:1.30em;
+   
+    
+
+}
+
+ li {
+    
+    list-style-type: none;
+    padding: 2% 5%;
+
+}
+.container.corpo {
+
+    margin-left:40%;
+    margin-top:-28%;
+    padding-top:2%;
+    width:60%;
+
+}
+
+.titulo{
+    margin: 20px;
 }
