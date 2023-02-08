@@ -1,0 +1,12 @@
+.bem-vindo{
+    color: #336699;
+    font: 18px;
+    margin:40px;
+}
+#linha-horizontal {
+    width: 242px;
+    border: 1px solid #000;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
